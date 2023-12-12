@@ -1,7 +1,6 @@
 Hello 
-1
-12
-423
-fsdf
- fsdf
-fsdfsdf
+red
+green 
+blue 
+training 
+this all are basic detail of repo
